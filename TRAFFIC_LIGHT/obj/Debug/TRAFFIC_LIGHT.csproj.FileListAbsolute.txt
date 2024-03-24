@@ -1,0 +1,18 @@
+d:\users\bsp\documents\visual studio 2015\Projects\TRAFFIC_LIGHT\TRAFFIC_LIGHT\bin\Debug\TRAFFIC_LIGHT.exe.config
+d:\users\bsp\documents\visual studio 2015\Projects\TRAFFIC_LIGHT\TRAFFIC_LIGHT\bin\Debug\TRAFFIC_LIGHT.exe
+d:\users\bsp\documents\visual studio 2015\Projects\TRAFFIC_LIGHT\TRAFFIC_LIGHT\bin\Debug\TRAFFIC_LIGHT.pdb
+d:\users\bsp\documents\visual studio 2015\Projects\TRAFFIC_LIGHT\TRAFFIC_LIGHT\obj\Debug\TRAFFIC_LIGHT.csprojResolveAssemblyReference.cache
+d:\users\bsp\documents\visual studio 2015\Projects\TRAFFIC_LIGHT\TRAFFIC_LIGHT\obj\Debug\TRAFFIC_LIGHT.Form1.resources
+d:\users\bsp\documents\visual studio 2015\Projects\TRAFFIC_LIGHT\TRAFFIC_LIGHT\obj\Debug\TRAFFIC_LIGHT.Properties.Resources.resources
+d:\users\bsp\documents\visual studio 2015\Projects\TRAFFIC_LIGHT\TRAFFIC_LIGHT\obj\Debug\TRAFFIC_LIGHT.csproj.GenerateResource.Cache
+d:\users\bsp\documents\visual studio 2015\Projects\TRAFFIC_LIGHT\TRAFFIC_LIGHT\obj\Debug\TRAFFIC_LIGHT.exe
+d:\users\bsp\documents\visual studio 2015\Projects\TRAFFIC_LIGHT\TRAFFIC_LIGHT\obj\Debug\TRAFFIC_LIGHT.pdb
+D:\C# Complete Project\TRAFFIC_LIGHT_Project Compressed Coding\TRAFFIC_LIGHT\bin\Debug\TRAFFIC_LIGHT.exe.config
+D:\C# Complete Project\TRAFFIC_LIGHT_Project Compressed Coding\TRAFFIC_LIGHT\obj\Debug\TRAFFIC_LIGHT.exe
+D:\C# Complete Project\TRAFFIC_LIGHT_Project Compressed Coding\TRAFFIC_LIGHT\obj\Debug\TRAFFIC_LIGHT.pdb
+D:\C# Complete Project\TRAFFIC_LIGHT_Project Compressed Coding\TRAFFIC_LIGHT\bin\Debug\TRAFFIC_LIGHT.exe
+D:\C# Complete Project\TRAFFIC_LIGHT_Project Compressed Coding\TRAFFIC_LIGHT\bin\Debug\TRAFFIC_LIGHT.pdb
+D:\C# Complete Project\TRAFFIC_LIGHT_Project Compressed Coding\TRAFFIC_LIGHT\obj\Debug\TRAFFIC_LIGHT.csprojResolveAssemblyReference.cache
+D:\C# Complete Project\TRAFFIC_LIGHT_Project Compressed Coding\TRAFFIC_LIGHT\obj\Debug\TRAFFIC_LIGHT.Form1.resources
+D:\C# Complete Project\TRAFFIC_LIGHT_Project Compressed Coding\TRAFFIC_LIGHT\obj\Debug\TRAFFIC_LIGHT.Properties.Resources.resources
+D:\C# Complete Project\TRAFFIC_LIGHT_Project Compressed Coding\TRAFFIC_LIGHT\obj\Debug\TRAFFIC_LIGHT.csproj.GenerateResource.Cache
